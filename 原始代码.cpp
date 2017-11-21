@@ -20,9 +20,8 @@ public:
 	chenyan(float xx){ start = xx; };	//构造对象
 	void func();        //功能实现
 	float f(float x, int xx);	//具体方法实现
-	void data(float x,	float y,	float y2,	float nn,	float eha2, float ehb2, float f, float  _f, float _a2, float _b2);
-	void show(float x,	float y,	float y2,	float nn,	float eha2, float ehb2, float f, float  _f, float _a2, float _b2);
-	        //原沙堆,	分沙1,		分沙2,		平分方法，	
+	void data(float x, float y, float y2, float nn, float eha2, float ehb2, float f, float  _f, float _a2, float _b2);
+	void show(float x, float y, float y2, float nn, float eha2, float ehb2, float f, float  _f, float _a2, float _b2);
 };
 
 void chenyan::func(){
