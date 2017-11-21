@@ -3,3 +3,4 @@
 
 
 <b>程序还太过于冗杂笨重，请求大神修改建议<b/>
+特别想优化的内容具体在float chenyan::f(float x, int fn){……}
