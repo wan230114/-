@@ -6,6 +6,13 @@
  若规定只能使用3次天平进行称量，有哪些方法？
 
 
-
+<table>
+<tr>
+<td><font color="#000000">███#000000</font></td>
+<td><font color="#2F0000">███#2F0000</font></td>
+<td><font color="#600030">███#600030</font></td>
+<td><font color="#460046">███#460046</font></td>
+<td><font color="#28004D">███#28004D</font></td>
+</tr><tr>
 
 <b>程序太过于笨重，请求大神修改建议<b/>
