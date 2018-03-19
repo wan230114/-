@@ -10,3 +10,6 @@
 <b>程序运行结果：</b>
 https://github.com/wan230114/chengyan/blob/master/%E4%BB%A3%E7%A0%81%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.txt
 </font></p>
+
+此后经研究推出了2.0版本：
+https://github.com/wan230114/chenyan-python
